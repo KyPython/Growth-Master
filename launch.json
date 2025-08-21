@@ -1,0 +1,22 @@
+// .vscode/launch.json
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug iOS",
+      "program": "${workspaceFolder}/.vscode/launch.json",
+      "request": "launch",
+      "type": "reactnative",
+      "platform": "ios"
+    },
+    {
+      "name": "Debug Android",
+      "program": "${workspaceFolder}/.vscode/launch.json",
+      "request": "launch",
+      "type": "reactnative",
+      "platform": "android"
+    }
+  ]
+}
+      // You might have other configurations like "Debug iOS", "Debug Android"
+      // which are useful for debugging native code in development builds.
