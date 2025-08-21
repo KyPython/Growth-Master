@@ -57,8 +57,12 @@
     "babel-plugin-module-resolver": "^5.0.2",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~9.2.0",
+<<<<<<< HEAD
     "typescript": "~5.8.3",
     "webpack": "^5.101.3"
+=======
+    "typescript": "~5.8.3"
+>>>>>>> bdfc48c11cc15dc854f02fd9c3335415e9427d29
   },
   "private": true,
   "image": "./assets/images/splash-icon.png"
