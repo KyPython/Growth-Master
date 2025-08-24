@@ -43,4 +43,3 @@ This application leverages a robust set of modern technologies to deliver a high
   * **GitHub:** [https://github.com/KyPython](https://github.com/KyPython)
   * **LinkedIn:** [https://www.linkedin.com/in/kyjahn-smith-16487224b/](https://www.google.com/search?q=https://www.linkedin.com/in/kyjahn-smith-16487224b/)
   * **Email:** KYJAHNTSMITH@GMAIL.COM
->>>>>>> bdfc48c11cc15dc854f02fd9c3335415e9427d29
